@@ -58,7 +58,7 @@ body{
 }
 .hero {
     position: absolute;
-    background-image: url('assets/pictures/heroImg.png'), linear-gradient(90deg, #A7B4BB 0%, rgba(0,0,0,1) 17%);
+    background-image: url('pictures/heroImg.png'), linear-gradient(90deg, #A7B4BB 0%, rgba(0,0,0,1) 17%);
     height: 790px;
     background-repeat: no-repeat;
     background-position: right;
@@ -88,7 +88,7 @@ body{
     padding-right: 59.5px;
     margin-top: -470px;
     padding-top: 470px;
-    background-image: url('assets/pictures/hero-background.png');
+    background-image: url('pictures/hero-background.png');
     background-repeat: no-repeat;
     background-position: left 0;
 }
@@ -120,7 +120,7 @@ body{
 .certificates {    
     font-size: 32px;
     padding-top: 59.5px;
-    background-image: url('assets/pictures/certificates-bgnd.png');
+    background-image: url('pictures/certificates-bgnd.png');
     background-position: left 0 bottom 45%;
     margin-left: -59.5px;
     margin-right: -59.5px;
@@ -167,7 +167,7 @@ body{
 .services {
     font-size: 32px; 
     padding-top: 59.5px;
-    background-image: url('assets/pictures/services-bg.png');
+    background-image: url('pictures/services-bg.png');
     background-repeat: no-repeat;
     background-position: right 0 bottom 0;
     height: 1370px;
@@ -195,7 +195,7 @@ body{
     padding-left: 59.5px;
     padding-right: 59.5px;
     margin-top: -300px;
-    background-image: url('assets/pictures/spirals_above_blue_rect.png');
+    background-image: url('pictures/spirals_above_blue_rect.png');
     background-repeat: no-repeat;
     background-position: 0% 100%;
 }
@@ -227,7 +227,7 @@ body{
     display: flex;
     align-items: center;
     gap: 40px;
-    background-image: url('assets/pictures/blue-rectangle.png');
+    background-image: url('pictures/blue-rectangle.png');
     background-position: 50% 25%;
     background-repeat: no-repeat;
     height: 1200px;
@@ -252,7 +252,7 @@ body{
     justify-content: center;
     margin: auto;
     padding-bottom: 80px;
-    background-image: url('assets/pictures/interests-bgd.png');
+    background-image: url('pictures/interests-bgd.png');
     background-position: 10% 61%;
     height: 700px;
 }
@@ -469,7 +469,7 @@ body{
         padding-top: 150px;
         padding-bottom: 150px;
         height: auto;
-        background-image: url('assets/pictures/mob-about-me-bg2.png');
+        background-image: url('pictures/mob-about-me-bg2.png');
         background-size: 220px 68%;
         background-position: 101% 210px;
         background-repeat: no-repeat;
@@ -556,7 +556,7 @@ body{
         height: 0;
         display: flex;
         flex-direction: column;
-        background-image: url('assets/pictures/mob-blue-rect.png');
+        background-image: url('pictures/mob-blue-rect.png');
         background-size: 100% 750px;
         background-repeat: no-repeat;
         background-position: 0px -100px;
@@ -590,7 +590,7 @@ body{
         margin-top: 330px !important;
         padding-right: 29px;
         padding-bottom: 40px !important;
-        background-image: url('assets/pictures/mob-guarantees-bgd2.png');
+        background-image: url('pictures/mob-guarantees-bgd2.png');
         background-repeat: no-repeat;
         background-size: 100vw 100%;
         background-position: 0px 0px;
@@ -749,7 +749,7 @@ body{
         margin-left: -25px !important;
         margin-right: -25px !important;
         padding-bottom: 20px;
-        background-image: url('assets/pictures/mob-questions-bg.png');
+        background-image: url('pictures/mob-questions-bg.png');
         background-size: 100vw;
         background-position: 0px 70px;
         padding-bottom: 200px;
@@ -784,7 +784,7 @@ body{
         height: auto;
         padding-left: 10px !important;
         padding-right: 10px !important;
-        background-image: url('assets/pictures/mob-certificates-bg2.png');
+        background-image: url('pictures/mob-certificates-bg2.png');
         background-size: 100% 800px;
         background-position: 0px -280px;
 
